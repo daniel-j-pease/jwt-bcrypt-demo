@@ -1,5 +1,7 @@
 # jwt-bcrypt-demo
 
+the master branch contains only the skeleton. for solutions, see the branches. in particular refer to 'round2', as it contains many features that 'solution' does not.
+
 once it's forked/cloned:
 
     npm install
