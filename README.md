@@ -1,5 +1,9 @@
 # jwt-bcrypt-demo
 
+
+####IMPORTANT!
+STORING THE TOKEN IN STATE IS NOT A GREAT IDEA. USE LOCAL STORAGE INSTEAD.
+
 the master branch contains only the skeleton. for solutions, see the branches. in particular refer to 'round2', as it contains many features that 'solution' does not.
 
 once it's forked/cloned:
